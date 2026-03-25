@@ -1,0 +1,1 @@
+import{b as e,c as n,t as a}from"./index-1d149e4a.js";const l={__name:"dialog",props:{content:{type:String,default:""}},setup(t){return(o,c)=>(e(),n("div",null,a(t.content),1))}};export{l as default};
